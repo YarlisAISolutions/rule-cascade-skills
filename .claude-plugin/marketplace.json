@@ -1,0 +1,26 @@
+{
+  "name": "rules-cascade",
+  "owner": {
+    "name": "Rule Cascade"
+  },
+  "metadata": {
+    "description": "Rule Cascade plugins for Claude Code and GitHub Copilot CLI."
+  },
+  "plugins": [
+    {
+      "name": "rules-cascade",
+      "source": "./plugins/rules-cascade",
+      "description": "Rule Cascade for AI coding agents: find business rules in code, write rulesets with golden tests, review them, and enforce them in TypeScript, Python, Java, Go or any language, through the rules-cascade MCP server, skills and sub-agents.",
+      "version": "1.0.0-alpha.10",
+      "category": "development",
+      "keywords": [
+        "business-rules",
+        "rules-engine",
+        "validation",
+        "policy",
+        "mcp",
+        "rulesets"
+      ]
+    }
+  ]
+}

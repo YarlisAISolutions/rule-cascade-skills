@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "rules-cascade": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@rules-cascade/cli",
+        "mcp"
+      ]
+    }
+  }
+}
